@@ -1,0 +1,123 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+.centrar{
+    display:block;
+    align-items: center;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+.img-inicio{
+ width: 100%;
+ height: 600px;
+}
+
+.container  border-top border-primary{
+    max-width: 500px
+}
+
+
+.body-inicio{
+    background-color: #f8982b;
+
+}
+.footer-inicio{
+    background-color: #f8982b;
+}
+
+.footer{
+   background-color:  #f5f5f5;
+}
+
+.nav-link{
+  border: 3px  black;
+  border-radius: 10px;
+  font-weight: bold;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.bg {
+    background-image: url("../img/fondo.png");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+/* MARGENES*/
+.margin-bootom-xs {
+    margin-bottom: 5px;
+}
+ 
+.margin-bootom-sm {
+    margin-bottom: 10px;
+}
+ 
+.margin-bootom-md {
+    margin-bottom: 20px;
+}
+ 
+.margin-bootom-lg {
+    margin-bottom: 40px;
+}
+
+.margin-left-xs {
+    margin-bottom: 5px;
+}
+ 
+.margin-left-sm {
+    margin-bottom: 10px;
+}
+ 
+.margin-left-md {
+    margin-bottom: 20px;
+}
+ 
+.margin-left-lg {
+    margin-bottom: 40px;
+}
+
+.margin-right-xs {
+    margin-bottom: 5px;
+}
+ 
+.margin-right-sm {
+    margin-bottom: 10px;
+}
+ 
+.margin-right-md {
+    margin-bottom: 20px;
+}
+ 
+.margin-right-lg {
+    margin-bottom: 40px;
+}
+
+.margin-top-xs {
+    margin-bottom: 5px;
+}
+ 
+.margin-top-sm {
+    margin-bottom: 10px;
+}
+ 
+.margin-top-md {
+    margin-bottom: 20px;
+}
+ 
+.margin-top-lg {
+    margin-bottom: 40px;
+}
